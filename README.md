@@ -11,6 +11,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   # aktywowanie hermetycznego środowiska
   $ source .venv/bin/activate
+  # tutaj mozna odpalic juz make install
   $ pip install -r requirements.txt
   $ pip install -r test_requirements.txt
 
@@ -24,6 +25,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   ```
   # jako zwykły program
+  albo make run
   $ python main.py
 
   # albo:
@@ -33,6 +35,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Uruchamianie testów (see: http://doc.pytest.org/en/latest/capture.html):
 
   ```
+  mozna make test
   $ PYTHONPATH=. py.test
   $ PYTHONPATH=. py.test --verbose -s
   ```
@@ -47,7 +50,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
   ...
 
-  # aktywacja 
+  # aktywacja
   $ source .venv/bin/activate
   ```
 
