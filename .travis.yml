@@ -9,6 +9,6 @@ script:
   - make docker_build
   - make docker_push
 deploy:
-  - provider: heroku
-  - app: protected-sea-99660
-  - api_key: ${HEROKU_API_KEY}
+  provider: heroku
+  app: protected-sea-99660
+  api_key: ${HEROKU_API_KEY}
