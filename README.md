@@ -66,6 +66,12 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - Instalacja dockera: [dockerce howto](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
+https://travis-ci.com/adi-spec/se_hello_printer_app.svg?branch=master
+
+
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=utsOiAH0KG&Days=1&Design=1" /></a>
+
+
 ## Centos
 
 - Instalacja docker-a:
