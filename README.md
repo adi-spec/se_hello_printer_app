@@ -68,7 +68,6 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 
 ## BADGE
-https://travis-ci.com/adi-spec/se_hello_printer_app.svg?branch=master
 
 <a href="https://travis-ci.com/" title="TravisCI Status Image"><img src="https://travis-ci.com/adi-spec/se_hello_printer_app.svg?branch=master" /></a>
 
