@@ -58,7 +58,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   ```
   # miejsce na twoje notatki
-  ```
+  ``` na statuscace umieszczono monitoring hiroku: https://protected-sea-99660.herokuapp.com/
 
 # Pomocnicze
 
