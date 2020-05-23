@@ -12,3 +12,5 @@ deploy:
   provider: heroku
   app: protected-sea-99660
   api_key: ${HEROKU_API_KEY}
+xunit:
+  - make test_xunit
